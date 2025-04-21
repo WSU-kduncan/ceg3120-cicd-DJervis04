@@ -159,7 +159,7 @@ docker run -p 4200:4200 wsudjervis/jervis-ceg3120
 Visit `http://localhost:4200` to confirm it's working
 
 ## Diagram
-[Diagram](Project4-CI-Diagram.png)
+![Diagram](Project4-CI-Diagram.png)
 
 ## Resources
 - [Docker Official Docs](https://docs.docker.com/)
