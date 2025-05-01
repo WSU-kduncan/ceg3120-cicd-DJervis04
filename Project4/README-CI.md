@@ -1,3 +1,6 @@
+### Issue
+I realized the due date was for Saturday, I had gotten it done on Sunday, but couldn't turn it in.
+
 ## Continuous Integration Project Overview
 
 ### What is the Goal of this Project
