@@ -1,0 +1,17 @@
+[
+  {
+    "id": "deploy-hook",
+    "execute-command": "/home/ubuntu/ceg3120-cicd-DJervis04/Project5/deployment/deploy.sh",
+    "trigger-rule": {
+      "match": {
+        "type": "value",
+        "value": "Secret",
+        "parameter": {
+          "source": "header",
+          "name": "GitHub-Token"
+        }
+      }
+    }
+  }
+]
+
